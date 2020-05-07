@@ -1,7 +1,0 @@
-{
-  "name": "Follow App",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
