@@ -1,0 +1,15 @@
+.near-header{
+    text-align: center;
+    ion-toolbar{
+        font-family: $primaryFont;
+        padding: 10px 0 !important;
+        background: $grayColor !important;
+    }
+}
+.near-content{
+    padding: 20px 0 80px;
+}
+.near-toggle-container{
+    padding-bottom: 60px;
+    text-align: center;
+}
